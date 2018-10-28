@@ -9,12 +9,12 @@ Kaggle competiton used for Udacity Machine Learning nanodegree course.
 - Checkout Kaggle datasets:
 ```
 mkdir data && cd data
-kaggle competitions download -c talkingdata-adtracking-fraud-detection
+kaggle competitions download -c PLAsTiCC-2018
 unzip *
 ```
-- Run jupyter notebook: `jupyter notebook fraud-detection.ipynb`
+- Run jupyter notebook: `jupyter notebook plasticc-2018.ipynb`
 
 ## Kaggle info
 
-- competition: https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection
-- datasets: https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data
+- competition: https://www.kaggle.com/c/PLAsTiCC-2018
+- datasets: https://www.kaggle.com/c/PLAsTiCC-2018/data
