@@ -19,3 +19,4 @@ unzip *
 - competition: https://www.kaggle.com/c/PLAsTiCC-2018
 - datasets: https://www.kaggle.com/c/PLAsTiCC-2018/data
 - dataset description: https://arxiv.org/abs/1810.00001
+- starter kit: https://github.com/LSSTDESC/plasticc-kit
