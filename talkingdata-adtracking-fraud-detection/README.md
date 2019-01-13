@@ -12,6 +12,7 @@ mkdir data && cd data
 kaggle competitions download -c talkingdata-adtracking-fraud-detection
 unzip *
 ```
+ - use `unzip '*'` on Mac
 - Run jupyter notebook: `jupyter notebook fraud-detection.ipynb`
 
 ## Result comparison
