@@ -14,6 +14,12 @@ unzip *
 ```
 - Run jupyter notebook: `jupyter notebook fraud-detection.ipynb`
 
+## Result comparison
+
+- Go to https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/leaderboard
+- Download `Raw Data` from Public Leaderboard to data/
+- Run jupyter notebook: `jupyter notebook kaggle-results.ipynb`
+
 ## Kaggle info
 
 - competition: https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection
